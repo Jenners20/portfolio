@@ -33,7 +33,7 @@ export default function Navbar() {
           </Link>
         </li>
         <li>
-          <Link id={styles.link} href="https://github.com/Jenners20">
+          <Link id={styles.link} href="https://github.com/JennersAcevedo">
             Projects
           </Link>
         </li>
