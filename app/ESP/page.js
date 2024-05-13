@@ -55,7 +55,7 @@ export default async function Home() {
           <div className={styles.headers}>
             <div className={styles.profile}>
               <Image
-                src="/profiles.jpg"
+                 src="/profiles.jpeg"
                 width={70}
                 height={70}
                 alt="Picture of the author"

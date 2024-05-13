@@ -52,7 +52,7 @@ export default async function Home() {
           <div className={styles.headers}>
             <div className={styles.profile}>
               <Image
-                src="/profiles.jpg"
+                src="/profiles.jpeg"
                 width={70}
                 height={70}
                 alt="Picture of the author"
@@ -61,7 +61,7 @@ export default async function Home() {
               <span className={styles.social}><a href='https://linktr.ee/jenners_dev'> @jenners_dev</a> </span>
             </div>
             <div className={styles.switch}>
-              <SwitchButton defaultChecked={true}/>
+              <SwitchButton defaultChecked={true} />
             </div>
           </div>
 
